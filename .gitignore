@@ -1,0 +1,10 @@
+# executables / data files
+*.exe
+*.out
+*.dat
+
+# skip the directory temp/
+temp/
+
+# skip IDE enviroment files
+.idea/
